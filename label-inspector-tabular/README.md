@@ -30,6 +30,15 @@ Note that we do not simply flag all examples where `predicted_label` does not ma
 
 Here is a [sample output](data/output/sample/sample_output.csv) that is returned from the label inspector.
 
+## Hyperparameters
+
+Label Inspector has one hyperparameter that can be specified during training, `runtime`. This `runtime` hyperparameter will determine the speed and accuracy of our label finding algorithm. There are two options available:
+
+1. `fast` : this mode will have a shorter execution time, but many not produce the best quality results
+2. `high_accuracy` : this mode will take longer to execute, but will produce higher quality results
+
+If unspecified, Label Inspector will run on `fast` mode by default.
+
 ## Common Errors
 
 If you are running into issues when using the label inspector, here are some common issues and potential solutions:
@@ -45,3 +54,12 @@ If you are running into issues when using the label inspector, here are some com
 2. **Insufficient memory**
 
     You can try running the label inspector on a smaller subsample of you data (however try to preserve all the classes) to verify if memory is the issue for your task. If memory is the issue, try running your task on an instance that has a larger memory allocation.
+
+
+## Additional Information and Resources
+
+This solution trains state-of-the-art ML models on your dataset which may take some time for large datasets. You can get results faster by specifying a more powerful instance type (that also has more memory, which may be required to handle larger datasets). Even though more powerful instance types cost more per hour, the overall cost may not be much greater due to the decreased runtime.  You can further decrease the runtime by setting the hyperparameter `runtime = "fast"` (see hyperparameters section above for more details).
+
+For further questions/support, please email: support@cleanlab.ai. Your email subject line must state that you are using Label Inspector in AWS Marketplace. 
+
+We will soon be allowing you to deploy the same ML models used to identify label issues via AWS Marketplace, as well as more robust models trained on a dataset with label issues auto-fixed. Please email us to get early access!
