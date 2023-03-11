@@ -10,7 +10,7 @@ This method works for any standard multi-class classification dataset where the 
 
 The first line of your CSV file should be a header with the column names for your data. The first column of your data must be the containing the class labels (remaining columns will be treated as predictive features). Ensure that the labels are categorical strings (e.g. not continuous numbers but discrete integers are ok), as only multi-class (and binary) classification datasets are supported.
 
-Here is a [sample input](data/input/payload.csv) for inference.
+Here is a [sample input](data/input/dataset.csv) for inference.
 
 ## Output
 
@@ -40,7 +40,7 @@ If you are running into issues when using the label inspector, here are some com
     
     Ensure that the labels are categorical strings (e.g. not continuous numbers, but discrete integers are okay), as only multi-class (and binary) classification datasets are supported. 
 
-    Check out this [sample input](data/input/payload.csv) for correct formatting of your data.
+    Check out this [sample input](data/input/dataset.csv) for correct formatting of your data.
 
 2. **Insufficient memory**
 
