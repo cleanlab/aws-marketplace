@@ -1,4 +1,4 @@
-# Label Inspector (Tabular)
+# Label Inspector
 
 [cleanlab](https://cleanlab.ai/) invents novel solutions to assess and improve data quality for machine learning applications with messy real-world data. Mislabeled data is a common issue in classification tasks, but we invented Confident Learning algorithms that automatically detect label errors in your dataset.
 
@@ -10,7 +10,7 @@ This method works for any standard multi-class classification dataset where the 
 
 The first line of your CSV file should be a header with the column names for your data. The first column of your data must be the containing the class labels (remaining columns will be treated as predictive features). Ensure that the labels are categorical strings (e.g. not continuous numbers but discrete integers are ok), as only multi-class (and binary) classification datasets are supported.
 
-Here is a [sample input](data/input/dataset.csv) for inference.
+Here is a [sample input](data/input/dataset.csv) that you can run Label Inspector on.
 
 ## Output
 
@@ -28,7 +28,7 @@ Things you can do with this returned information:
 
 Note that we do not simply flag all examples where `predicted_label` does not match `given_label` as label issues, instead only flagging the examples that our Confident Learning algorithms identify as mislabeled with higher certainty.
 
-Here is a [sample output](data/output/sample/sample_output.csv) that is returned from the label inspector.
+Here is a [sample output](data/output/sample/sample_output.csv) that is returned from Label Inspector.
 
 ## Hyperparameters
 
