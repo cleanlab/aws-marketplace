@@ -1,5 +1,6 @@
 # AWS Marketplace Examples
-Repository of notebooks demonstrating how to use AWS Marketplace offerings.
+
+Notebooks demonstrating how to use our AWS Marketplace offerings.
 
 Always use the latest version offered in the Marketplace -- these examples are designed for that version only.
 
