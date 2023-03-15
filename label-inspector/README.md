@@ -39,6 +39,12 @@ Label Inspector has one hyperparameter that can be specified during training, `r
 
 If unspecified, Label Inspector will run on `high_accuracy` mode by default.
 
+## Choosing the Instance Type
+
+If your dataset contains text fields (strings that are not discrete categories), we recommend a p*-instance that has GPU such that large language models can be fine-tuned on your data.
+
+If your dataset is big (over 100k rows), we recommend an instance with lots of memory: m5.24xlarge if no text, p3.16xlarge otherwise.
+
 ## Common Errors
 
 If you are running into issues when using the label inspector, here are some common issues and potential solutions:
