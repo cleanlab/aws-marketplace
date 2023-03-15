@@ -34,10 +34,10 @@ Here is a [sample output](data/output/sample/sample_output.csv) that is returned
 
 Label Inspector has one hyperparameter that can be specified during training, `runtime`. This `runtime` hyperparameter will determine the speed and accuracy of our label finding algorithm. There are two options available:
 
-1. `fast` : this mode will have a shorter execution time, but many not produce the best quality results
-2. `high_accuracy` : this mode will take longer to execute, but will produce higher quality results
+1. `fast` : this mode will have a shorter execution time, but many not produce the best quality results (maximum execution time is 2 hours, will take much less time for most datasets)
+2. `high_accuracy` : this mode will take longer to execute, but will produce higher quality results (maximum execution time is 13 hours, will take much less time for most datasets)
 
-If unspecified, Label Inspector will run on `fast` mode by default.
+If unspecified, Label Inspector will run on `high_accuracy` mode by default.
 
 ## Common Errors
 
