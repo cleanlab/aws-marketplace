@@ -1,8 +1,8 @@
 # Label Inspector
 
-[cleanlab](https://cleanlab.ai/) invents novel solutions to assess and improve data quality for machine learning applications with messy real-world data. Mislabeled data is a common issue in classification tasks, but we invented Confident Learning algorithms that automatically detect label errors in your dataset.
+Mislabeled data is a common issue in classification tasks, but we invented [Confident Learning algorithms](https://playground.cleanlab.ai/) that automatically detect label errors in your dataset.
 
-Label Inspector estimates which examples are likely mislabeled in a classification dataset. All you need to do upload the labels and features for a classification task, and we will use these inputs to  train ML models that score the quality of each your labels and flag some of them as being potentially incorrect. ML training may take some time for larger datasets.
+**Label Inspector** runs these algorithms to estimate which examples are likely mislabeled in any classification dataset. Simply provide the data (labels + features) for a classification task in S3, and state-of-the-art ML models will be trained to score the quality of your labels and flag which ones are likely incorrect. Label Inspector can identify mislabeled examples in any standard multi-class classification dataset (including features that are: numeric, categorical, or text — with missing values allowed). It returns a CSV file with a row for each example in your dataset, stating: whether it appears mislabeled, how likely the label is correct, plus an alternative suggested label. 
 
 ## Input
 
