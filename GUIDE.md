@@ -3,7 +3,7 @@
 ## Obtain the product ARN from a Marketplace listing
 
 First, you need to subscribe to the AWS Marketplace product. Open the listing page for the product that you want to use
-(eg. for Label Inspector the listing page is [here](https://aws.amazon.com/marketplace/pp/prodview-rlbhc2lxttdio)).
+(eg. for our **Label Inspector** solution, the listing page is [here](https://aws.amazon.com/marketplace/pp/prodview-rlbhc2lxttdio)).
 
 On the listing, click on the **Continue to subscribe** button located at the top right.
 
