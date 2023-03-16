@@ -6,7 +6,7 @@ We’ve published much of the research behind our novel algorithms for detecting
 
 This repository contains notebooks demonstrating how to use our [AWS Marketplace](https://aws.amazon.com/marketplace) offerings, as well as detailed documentation for each solution.
 
-Always use the latest version offered in the Marketplace -- these examples are designed for that version only. If you get stuck on AWS setup, our handy [guide](GUIDE.md) may help!
+Always use the latest version offered in the Marketplace -- these examples are designed for that version only. If you get stuck on AWS setup or providing credentials/ARNs, our handy [guide](GUIDE.md) may help!
 
 ## Table of Contents
 
