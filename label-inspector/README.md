@@ -28,7 +28,7 @@ Things you can do with this returned information:
 
 Note that we do not simply flag all examples where `predicted_label` does not match `given_label` as label issues, instead only flagging the examples that our Confident Learning algorithms identify as mislabeled with higher certainty.
 
-Here is a [sample output](data/output/cleanset.csv) that is returned from Label Inspector.
+Here is a [sample output](data/output/sample_cleanset.csv) that is returned from Label Inspector.
 
 ## Hyperparameters
 
