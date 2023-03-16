@@ -1,4 +1,4 @@
-# AWS Guide
+# General Guide for using AWS Marketplace
 
 ## Obtain the product ARN from a Marketplace listing
 
