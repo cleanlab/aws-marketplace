@@ -9,7 +9,7 @@ On the listing, click on the **Continue to subscribe** button located at the top
 
 ![subscribe-button](src/subscribe-button.png)
 
-That will lead you to the **Subscribe to this software** page, where you can review the EULA and pricing terms and then click on **"Accept Offer"** if you agree with them. 
+That will lead you to the **Subscribe to this software** page, where you can review the EULA and pricing terms and then click on **"Accept Offer"**. 
 
 ![accept-offer](src/accept-offer.png)
 
