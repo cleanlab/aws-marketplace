@@ -28,7 +28,7 @@ Clicking on that button will lead you to the **Configue and launch** page. Here,
 
 To run a sample notebook on AWS SageMaker, create a new notebook instance following [this guide](https://docs.aws.amazon.com/sagemaker/latest/dg/howitworks-create-ws.html).
 
-After you are in either Jupyter or JupyterLab, upload the sample notebook and corresponding data files to your instance. Data files required for each sample notebook is located in the `data` folder within the same directory of the sample notebook (ie. the data files for the [Label Inspector](label-inspector/label_inspector.ipynb) sample is location in [label-inspector/data](label-inspector/data/)).
+After you are in either Jupyter or JupyterLab, upload the sample notebook and corresponding data files to your instance. Data files required for the sample notebook must be located in the `data` folder within the same directory as the sample notebook (e.g. the data files for the [Label Inspector](label-inspector/label_inspector.ipynb) sample are located in [label-inspector/data](label-inspector/data/)).
 
 After uploading the sample notebook and data files, you should be able to execute the entire sample notebook directly from AWS SageMaker.
 
