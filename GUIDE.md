@@ -17,7 +17,9 @@ After accepting the offer, you will be able to click on the **Continue to config
 
 ![config-button](src/config-button.png)
 
-Clicking on that button will lead you to the **Configue and launch** page. Here, you can select a **region**, and you will see a **Product Arn** corresponding to the selected region. This is the product ARN that you need to specify to use the product. Copy that ARN and specify it when needed in your code. 
+Clicking on that button will lead you to the **Configue and launch** page. Here, you can select a **region**, and you will see a **Product Arn** corresponding to the selected region. This is the product ARN that you'll later need to specify to use the product.
+
+**Copy that ARN** so you have it later when it's needed in your code. 
 
 ![config-page](src/config-page.png)
 
