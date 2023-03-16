@@ -33,7 +33,7 @@ After you are in either Jupyter or JupyterLab from within Sagemaker, upload the 
 After uploading the sample notebook and data files, you should be able to execute the entire sample notebook directly from AWS SageMaker.
 
 
-## Run sample notebooks locally
+## Run sample notebooks locally from your computer
 
 To run a sample notebook locally, there are a few variables that have to be setup:
 
