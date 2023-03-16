@@ -24,7 +24,7 @@ Clicking on that button will lead you to the **Configue and launch** page. Here,
 ![config-page](src/config-page.png)
 
 
-## Run sample notebooks on AWS SageMaker
+## Run sample notebooks from AWS SageMaker
 
 To run a sample notebook on AWS SageMaker, create a new notebook instance following [this guide](https://docs.aws.amazon.com/sagemaker/latest/dg/howitworks-create-ws.html).
 
