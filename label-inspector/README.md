@@ -10,11 +10,11 @@ This method works for any standard multi-class classification dataset where the 
 
 The first line of your CSV file should be a header with the column names for your data. The first column of your data must be the containing the class labels (remaining columns will be treated as predictive features). Ensure that the labels are categorical strings (e.g. not continuous numbers but discrete integers are ok), as only multi-class (and binary) classification datasets are supported.
 
-Here is a [sample input](data/input/dataset.csv) that you can run Label Inspector on.
+Here is a [sample input](data/train/input/train_dataset.csv) that you can run Label Inspector on.
 
 ## Output
 
-Label Inspector will output a CSV file with one row for each row in your original dataset and 4 columns: 
+After the training job is complete, Label Inspector will output a CSV file with one row for each row in your original dataset and 4 columns: 
 
 - `is_label_issue` contains boolean True/False values specifying whether or not this example is inferred to be mislabeled.
 - `label_score` contains quality scores between 0 and 1 estimating the likelihood that each example is correctly labeled (lower scores indicate more noisy labels).
@@ -28,7 +28,7 @@ Things you can do with this returned information:
 
 Note that we do not simply flag all examples where `predicted_label` does not match `given_label` as label issues, instead only flagging the examples that our Confident Learning algorithms identify as mislabeled with higher certainty.
 
-Here is a [sample output](data/output/sample_cleanset.csv) that is returned from Label Inspector.
+Here is a [sample output](data/train/output/sample_cleanset.csv) that is returned from Label Inspector.
 
 ## Hyperparameters
 
@@ -38,6 +38,12 @@ Label Inspector has one hyperparameter that can be specified during training, `r
 2. `high_accuracy` : this mode will take longer to execute, but will produce higher quality results (maximum execution time is 13 hours, will take much less time for most datasets)
 
 If unspecified, Label Inspector will run on `high_accuracy` mode by default.
+
+## Inference Jobs
+
+Label Inspector trains a ML model to detect label errors. After the training is complete, you can deploy the trained model to perform real-time and batch inference on future data. Check out the [sample notebook](label_inspector.ipynb) to see how to deploy a real-time endpoint or perform batch inference.
+
+The input data used to conduct inference on must have the same feature columns as the data used to train the model(this data does not need to have a label column), and the inference jobs will return a CSV file with the predicted labels for those examples.
 
 ## Choosing the Instance Type
 
