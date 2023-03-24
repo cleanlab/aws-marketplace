@@ -43,7 +43,14 @@ If unspecified, Label Inspector will run on `high_accuracy` mode by default.
 
 Label Inspector trains a robust ML model to detect label errors in your dataset. After the training is complete, you can not only inspect the errors detected in your dataset but also deploy this trained model to classify new data. You can perform either real-time or  batch inference on future data. Real-time is better if you will get datapoints one (or few) at a time and need to immediately classify them, whereas batch is better if you just want to get predictions for large test datasets cheaply and there is less urgency. Check out the [sample notebook](label_inspector.ipynb) to see how to deploy a real-time endpoint or perform batch inference.
 
-The input data used to conduct inference on must have the same feature columns as the data used to train the model(this data does not need to have a label column), and the inference jobs will return a CSV file with the predicted labels for those examples.
+The input data used to conduct inference on must have the same feature columns as the data used to train the model (this data does not need to have a label column).
+
+Both the real-time and batch inferences job will a CSV with two main pieces of information:
+
+- the first column of the output results will contain the model predicted labels for each example
+
+- the remaining columns of the output will contain the predicted class probabilities for each example, theses columns will be named `[class_name]_probability`, where `class_name` is each unique class in your dataset (ie. the number of columns will be equivalent to the number of classes available in your training dataset)
+
 
 ## Choosing the Instance Type
 
