@@ -39,9 +39,9 @@ Label Inspector has one hyperparameter that can be specified during training, `r
 
 If unspecified, Label Inspector will run on `high_accuracy` mode by default.
 
-## Inference Jobs
+## Predict the labels of new data
 
-Label Inspector trains a ML model to detect label errors. After the training is complete, you can deploy the trained model to perform real-time and batch inference on future data. Check out the [sample notebook](label_inspector.ipynb) to see how to deploy a real-time endpoint or perform batch inference.
+Label Inspector trains a robust ML model to detect label errors in your dataset. After the training is complete, you can not only inspect the errors detected in your dataset but also deploy this trained model to classify new data. You can perform either real-time or  batch inference on future data. Real-time is better if you will get datapoints one (or few) at a time and need to immediately classify them, whereas batch is better if you just want to get predictions for large test datasets cheaply and there is less urgency. Check out the [sample notebook](label_inspector.ipynb) to see how to deploy a real-time endpoint or perform batch inference.
 
 The input data used to conduct inference on must have the same feature columns as the data used to train the model(this data does not need to have a label column), and the inference jobs will return a CSV file with the predicted labels for those examples.
 
