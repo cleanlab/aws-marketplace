@@ -41,7 +41,7 @@ If unspecified, Label Inspector will run on `high_accuracy` mode by default.
 
 ## Predict the labels of new data and find potential label issues(optional)
 
-Label Inspector trains a robust ML model to detect label errors in your dataset. After the training is complete, you can not only inspect the errors detected in your dataset but also deploy this trained model to classify new data. If your new data has accompanying labels, Label Inspector will also identify any potential label errors in the new data.
+Label Inspector trains a robust ML model to detect label errors in your original dataset. After the training is complete, you can not only inspect the errors detected in your dataset but also deploy this trained model to classify new data. If your new data has accompanying labels, Label Inspector will also identify any potential label errors in the new data.
 
 You can perform either real-time or batch inference on future data. Real-time is better if you will get datapoints one (or few) at a time and need to immediately classify them, whereas batch is better if you just want to get predictions for large test datasets cheaply and there is less urgency. Check out the [sample notebook](label_inspector.ipynb) to see how to deploy a real-time endpoint or perform batch inference.
 
