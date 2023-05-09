@@ -14,7 +14,7 @@ Here is a [sample input](data/input/dataset.csv) that you can run Label Inspecto
 
 ## Output
 
-Label Inspector will output a CSV file with one row for each row in your original dataset and 4 columns: 
+After the training job is complete, Label Inspector will output a CSV file with one row for each row in your original dataset and 4 columns: 
 
 - `is_label_issue` contains boolean True/False values specifying whether or not this example is inferred to be mislabeled.
 - `label_score` contains quality scores between 0 and 1 estimating the likelihood that each example is correctly labeled (lower scores indicate more noisy labels).
@@ -38,6 +38,27 @@ Label Inspector has one hyperparameter that can be specified during training, `r
 2. `high_accuracy` : this mode will take longer to execute, but will produce higher quality results (maximum execution time is 13 hours, will take much less time for most datasets)
 
 If unspecified, Label Inspector will run on `high_accuracy` mode by default.
+
+## Predict the labels of new data and find potential label issues(optional)
+
+Label Inspector trains a robust ML model to detect label errors in your original dataset. After the training is complete, you can not only inspect the errors detected in your dataset but also deploy this trained model to classify new data. If your new data has accompanying labels, Label Inspector will also identify any potential label errors in the new data.
+
+You can perform either real-time or batch inference on future data. Real-time is better if you will get datapoints one (or few) at a time and need to immediately classify them, whereas batch is better if you just want to get predictions for large test datasets cheaply and there is less urgency. Check out the [sample notebook](label_inspector.ipynb) to see how to deploy a real-time endpoint or perform batch inference.
+
+The input data used to conduct inference on must have the same feature columns as the data used to train the model (this data is not required to have a label column).
+
+Both the real-time and batch inferences job will a CSV with two main pieces of information:
+
+- the first column of the output results will contain the model predicted labels for each example
+- the remaining columns of the output will contain the predicted class probabilities for each example, theses columns will be named `[class_name]_probability`, where `class_name` is each unique class in your dataset (ie. the number of columns will be equivalent to the number of classes available in your training dataset)
+
+Furthermore, if your inference data contains a label column, Label Inspector will also identify any potential label errors. In this case, the return CSV will have two additional columns:
+
+- `is_label_issue`, a boolean value specifying whether a label is identified as an error
+- `label_score`, a quality scores estimating the likelihood that each example is correctly labeled (lower scores indicate noisier labels)
+
+Please note that the identification of label issues in your new data is done using models and statistics fitted to the training data.  If the distribution of your data is evolving and you have enough time to re-fit models, then you may better identify label errors by merging your new data with your original training dataset and feeding this into a new Label Inspector training job.
+
 
 ## Choosing the Instance Type
 
