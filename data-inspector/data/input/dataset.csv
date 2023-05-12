@@ -1,0 +1,942 @@
+stud_ID,name,exam_1,exam_2,exam_3,notes,letter_grade
+f48f73,Nicole Carter,53,77,93,,C
+0bd4e7,Tammy Myers,81,64,80,great participation +10,B
+e1795d,Lillian Lucas,74,88,97,,B
+cb9d7a,Danielle Graham,61,94,78,,C
+9acca4,Wilbur Fleming,48,90,91,,C
+745c23,Cecilia Phelps,89,95,72,,B
+24d6f2,Brent Long,0,83,97,"cheated on exam, gets 0pts",D
+e5af86,Shirley Marshall,71,82,97,,B
+0aa465,Johanna Turner,0,56,96,"cheated on exam, gets 0pts",F
+cac6eb,Micheal Casey,75,80,98,missed class frequently -10,C
+d52614,Shawna Weber,81,65,82,,C
+5afd5d,Patricia Webb,95,86,53,missed homework frequently -10,B
+952d9a,Alexandra Rodgers,89,72,98,missed homework frequently -10,C
+4629d7,Della Butler,80,59,65,,D
+28f8b4,Delores Stevens,67,82,98,,D
+851614,Rogelio Welch,87,78,95,,B
+9f6431,Beulah Martinez,89,69,98,great participation +10,A
+f288e4,Sheri Castro,53,72,46,missed class frequently -10,F
+5a53c9,Owen Hampton,46,84,89,missed homework frequently -10,B
+edeb53,Robert Reed,70,63,95,great participation +10,B
+9b7f42,Wesley Peterson,63,93,94,,B
+01ed51,Jane Patton,90,75,90,missed homework frequently -10,C
+10ec62,Dominick Cross,72,81,95,missed class frequently -10,C
+5eef2c,Andy Woods,90,78,81,,A
+71d7b9,Eleanor Moss,99,53,76,,C
+b2ec67,Kristen Buchanan,85,49,83,,C
+fbffe2,Ella Pope,89,71,94,great final presentation +10,A
+752905,Leo Hunter,86,80,89,,F
+cfc98d,Adrienne Freeman,75,94,79,,B
+d7c575,Ruben Olson,61,95,94,,B
+b3112c,Eileen Mcdonald,84,90,91,,A
+13b36e,Van Todd,98,92,96,,A
+c1085a,Sylvester Craig,95,83,78,,D
+f5427e,Lee Briggs,92,63,91,missed homework frequently -10,C
+e1dffd,Roosevelt Francis,69,94,95,great participation +10,A
+6699cc,Armando Mckenzie,81,90,90,missed homework frequently -10,C
+11d11f,Caleb Kelly,98,69,90,,D
+5d086b,Guadalupe Reese,82,94,99,missed class frequently -10,B
+cd1b96,Rosa Black,73,57,96,,C
+d88e3d,Carlton Steele,98,73,86,great final presentation +10,A
+7630c7,Alton Walsh,0,81,99,"cheated on exam, gets 0pts",B
+6ff175,Pamela Henry,0,89,100,"cheated on exam, gets 0pts",D
+6243e0,Madeline Santos,62,83,81,,C
+02e64e,Clay Gonzalez,78,84,92,great final presentation +10,A
+1a0785,Edna Greene,79,84,92,,B
+50c022,Daniel Gutierrez,65,69,92,missed homework frequently -10,A
+bfc71a,Ben Walters,98,82,47,great final presentation +10,B
+be178f,Alfonso Roberts,92,0,89,"cheated on exam, gets 0pts",D
+e68fe8,Estelle Rice,84,46,95,,C
+745eca,Samantha Mitchell,95,85,98,,A
+dea70a,Yolanda Perry,86,88,90,great final presentation +10,A
+416a58,Robyn French,65,58,91,,C
+aa4eaa,Francis Bailey,79,83,88,,F
+7e74b1,Kara Cortez,0,95,87,"cheated on exam, gets 0pts",D
+cce446,Angel Alvarado,90,57,97,,B
+bece9b,Sophie Norton,72,69,81,missed homework frequently -10,D
+eb10df,Kate Cunningham,70,85,96,,F
+83818a,Genevieve Moreno,89,59,79,missed homework frequently -10,B
+16fc65,Kendra Grant,75,83,69,,A
+f12b58,Paul Schultz,89,70,90,missed homework frequently -10,C
+3cbdb0,Theodore Kennedy,81,85,95,,B
+93af9d,Bradford Hansen,76,70,73,great participation +10,B
+fff102,Jaime Hicks,92,62,66,great participation +10,B
+61cb66,Marian Harrison,94,98,99,,A
+63c40e,Fred Maxwell,96,99,96,great final presentation +10,A
+228dc0,Charles Love,65,85,80,great participation +10,B
+32b9ff,Jon Harper,90,79,85,great participation +10,A
+b82370,Myron Mcguire,0,87,77,"cheated on exam, gets 0pts",F
+0500f9,Dan Carlson,91,75,95,great participation +10,A
+3b6d80,Bill Bush,88,77,92,,F
+24f0df,Woodrow Patrick,86,64,96,,B
+38a6ec,Kelvin Huff,88,67,74,,A
+c29e3c,Geoffrey Curtis,76,59,65,,D
+db7c62,Mindy Lindsey,96,68,59,great participation +10,B
+30f5ea,Leigh Cain,84,98,51,,C
+4575aa,Ann Murray,97,85,75,,B
+ba5948,Louis Scott,97,98,80,great final presentation +10,A
+b6dd2f,Edwin Watson,89,74,71,,C
+d0a4ce,Preston Diaz,72,90,93,,B
+257755,Fernando Daniels,49,0,78,"cheated on exam, gets 0pts",F
+11d2df,Bryant Evans,88,93,78,great participation +10,A
+e64047,Elvira Chapman,88,80,82,great participation +10,A
+8bfb9a,Shelia Campbell,75,91,68,great final presentation +10,B
+267224,Glen Rhodes,68,99,91,,D
+a59996,Don Oliver,92,87,71,,D
+bdcaaf,Dixie Cohen,83,97,75,great final presentation +10,A
+98d5be,Audrey Abbott,87,100,94,,A
+139084,Violet Dawson,86,95,77,,B
+dbaba1,Casey Wilkerson,79,0,76,"cheated on exam, gets 0pts",F
+4808b4,Bridget Bowers,99,83,44,great final presentation +10,B
+a7e4da,Emilio Frazier,96,77,79,missed class frequently -10,C
+974144,Francisco Conner,78,94,81,,D
+91044f,Enrique Gilbert,58,76,94,great participation +10,B
+7af3fe,Erica Anderson,70,0,63,"cheated on exam, gets 0pts",F
+75490e,Kerry Robertson,77,84,95,,B
+826859,Juan Hodges,81,56,54,,D
+c25641,Joel Dixon,76,96,78,great final presentation +10,A
+1c4d0a,Dale Chambers,99,53,73,missed homework frequently -10,D
+ea3967,Alma Nguyen,93,91,84,great final presentation +10,A
+dd3e61,Gustavo Cummings,73,87,86,missed class frequently -10,C
+0c20cb,Jerry Coleman,85,99,71,,B
+11f388,Patricia Baker,82,79,64,,C
+6d92b1,Sean Parker,100,100,81,missed homework frequently -10,B
+56684b,Philip Hughes,99,87,99,great final presentation +10,A
+fb3045,Anthony Garcia,0,84,93,"cheated on exam, gets 0pts",D
+8a6228,Jeffrey Miller,90,81,79,,D
+fd1f22,James Thomas,78,0,76,"cheated on exam, gets 0pts",F
+577281,Clarence Martinez,92,73,89,,B
+781d05,Judy Powell,74,77,79,missed homework frequently -10,A
+aad144,Ann Ward,98,93,92,,A
+8be3e7,Howard Morgan,87,82,56,,C
+3a3788,Shawn Davis,96,56,70,,C
+92766b,Chris Williams,81,89,78,missed homework frequently -10,C
+94c5d9,Eric Henderson,77,81,88,great participation +10,A
+d0cde7,Jesse Rodriguez,78,53,96,missed homework frequently -10,D
+60c977,Emily Simmons,71,57,96,great participation +10,B
+de2a50,Douglas Jones,88,97,89,great participation +10,A
+750e0c,Arthur Flores,53,99,69,missed class frequently -10,B
+6bcef7,Adam Price,96,82,86,great participation +10,A
+88e509,Helen Bryant,71,90,92,great final presentation +10,A
+d4d286,Brenda Robinson,0,81,97,"cheated on exam, gets 0pts",B
+1935a9,Janet Harris,74,94,81,missed homework frequently -10,C
+8d904d,Cheryl Taylor,73,73,76,missed class frequently -10,D
+fd3ffd,Shirley Lee,0,78,80,"cheated on exam, gets 0pts",F
+7b4691,Paul Kelly,86,92,86,great participation +10,A
+11b8ff,Denise Alexander,97,94,87,great final presentation +10,A
+91a8a9,Marie Diaz,92,81,97,great final presentation +10,A
+a49ad1,Stephen Turner,93,0,60,"cheated on exam, gets 0pts",F
+f47dcb,Samuel Phillips,82,0,79,"cheated on exam, gets 0pts",F
+6d3ee0,Carol Bennett,99,62,89,,D
+1803b9,Patrick Stewart,75,0,55,"cheated on exam, gets 0pts",A
+309b2f,Charles Jackson,77,70,84,,C
+7c4cbf,Carl Reed,76,81,96,,B
+8d40bc,Irene Gray,68,63,96,missed class frequently -10,D
+659a12,Jimmy Hall,71,54,99,missed homework frequently -10,D
+029d64,Russell Roberts,84,92,75,missed homework frequently -10,F
+96968e,Amanda Smith,90,84,97,great participation +10,A
+20c609,Harold Anderson,61,100,94,,D
+a72acb,Catherine Patterson,73,56,91,missed class frequently -10,D
+0db4eb,Bobby Bell,83,88,57,missed homework frequently -10,A
+26e0d9,Johnny Scott,79,77,95,great participation +10,F
+4017cd,Barbara Young,0,97,90,"cheated on exam, gets 0pts",D
+78c144,Carlos Watson,58,68,75,,D
+c111d6,William Walker,63,82,53,,B
+fd0fb9,Ronald Rogers,76,78,70,,F
+4ce31f,Donald Cook,0,82,77,"cheated on exam, gets 0pts",F
+1ee4df,Jane Griffin,91,79,93,great final presentation +10,A
+fa106f,Lisa White,71,65,81,great participation +10,B
+dc4333,Brandon Hill,71,0,75,"cheated on exam, gets 0pts",F
+b9822e,Michelle Allen,98,77,86,,B
+42155a,Rebecca Jenkins,56,80,79,,F
+bee970,Wanda Cox,99,90,90,,A
+de3e1a,Norma Perry,80,83,87,,F
+7dee0e,Joe Brown,79,75,74,,C
+1db3ff,Juan Murphy,95,81,76,,B
+eb1eab,Ralph Campbell,72,87,90,missed class frequently -10,C
+412771,Jose Evans,72,0,86,"cheated on exam, gets 0pts",F
+d030b5,Anne Hernandez,91,0,94,"cheated on exam, gets 0pts",D
+4787de,Matthew Green,73,84,68,great participation +10,D
+b3a1a5,Katherine Sanders,0,96,90,"cheated on exam, gets 0pts",B
+796fae,Teresa Cooper,98,89,71,missed class frequently -10,F
+579cc4,Eugene Ross,93,65,96,missed class frequently -10,A
+06a637,George Gonzales,79,91,89,missed homework frequently -10,C
+1f5e9f,Christina Mitchell,89,93,79,,B
+e82412,Nicole Moore,96,90,77,,B
+155c8b,Frank Foster,0,65,87,"cheated on exam, gets 0pts",F
+a0b792,Craig Russell,92,86,78,,B
+c42464,Ruby Bailey,74,0,85,"cheated on exam, gets 0pts",F
+569c21,Jennifer King,73,80,95,,B
+a3f0e3,Diane Edwards,69,93,84,,F
+77ddb9,Todd James,91,99,90,,A
+5e06b1,Terry Rivera,73,92,91,great final presentation +10,A
+018bff,John Nelson,94,41,91,great participation +10,B
+f24115,Susan Thompson,91,96,92,,F
+f549d6,Beverly Ramirez,69,94,58,missed homework frequently -10,B
+9f0216,Kathy Sanchez,94,79,89,,B
+182f74,Benjamin Wood,0,92,98,"cheated on exam, gets 0pts",D
+2a88bb,Edward Butler,89,92,79,,B
+f68c58,Louise Adams,92,86,81,,D
+dccc8c,Steven Carter,82,85,89,,F
+6aace8,Scott Wright,82,77,92,missed class frequently -10,C
+b859c5,Sarah Johnson,99,65,87,,B
+04b16b,Andrew Perez,73,95,67,,C
+2caa08,Nicholas Richardson,980,94,90,great participation +10,A
+e330a0,Alan Torres,95,78,60,great participation +10,D
+fd8db2,Victor Washington,90,67,77,missed class frequently -10,D
+f8ca91,Sharon Collins,96,0,90,"cheated on exam, gets 0pts",D
+303db0,Lawrence Martin,86,80,89,,B
+513201,Ernest Brooks,51,78,84,,C
+579581,Angela Howard,99,75,88,,B
+e1ac6f,Sandra Long,93,58,70,great final presentation +10,D
+244ea8,Phyllis Morris,95,0,72,"cheated on exam, gets 0pts",F
+0e31d4,Dorothy Lewis,88,71,93,,B
+e09d9b,Sara Wilson,91,92,70,,D
+0e4f01,Diana Gonzalez,98,92,69,,B
+fe7277,Jack Barnes,90,0,100,"cheated on exam, gets 0pts",B
+d77a5c,Mary Clark,89,70,74,,C
+e6ac34,Gary Lopez,97,82,80,,D
+464aab,Tammy Peterson,78,81,74,missed homework frequently -10,D
+df28ca,Karen Campbell,77,87,83,,D
+fc55c3,Jerry Carter,96,99,93,<p><samp>Invalid entry.</p>,A
+be1471,Wanda Henderson,92,92,85,great final presentation +10,A
+c39ac7,Randy Watson,86,80,66,,C
+0a420f,Robert Lee,59,70,86,,C
+22daa1,Harry Martin,93,75,91,,B
+848c64,Rebecca Richardson,76,54,65,,D
+85b1fe,Ronald Evans,72,78,69,missed homework frequently -10,D
+8804a1,Judith Simmons,58,90,80,,C
+405989,Melissa Jackson,77,84,86,,D
+aef92a,Jacqueline White,92,66,65,missed homework frequently -10,D
+592043,Jane Green,88,83,86,great final presentation +10,F
+d5deef,Beverly Moore,65,0,-18,"cheated on exam, gets 0pts",F
+1f2870,Walter Jones,89,72,60,great final presentation +10,F
+a80ea8,Patricia Murphy,84,79,97,great final presentation +10,A
+bfcb37,Brian Coleman,96,64,65,,C
+4065e7,Julie Collins,96,75,92,great final presentation +10,A
+40e901,Jennifer Thomas,62,92,76,,C
+3c4cbb,Elizabeth Allen,94,62,66,,C
+a492e7,Martin Hall,85,74,92,,B
+c23a96,Janice Hughes,73,90,68,missed homework frequently -10,D
+1d3d52,Maria Hill,81,76,97,great participation +10,A
+7844d1,George Sanchez,96,87,80,missed class frequently -10,C
+dda6c7,Bobby Wood,83,85,90,great participation +10,A
+0c3423,Kevin Walker,85,100,79,missed class frequently -10,F
+844a91,Jason Harris,75,77,73,missed homework frequently -10,D
+5a3ede,Teresa Edwards,84,94,47,missed homework frequently -10,D
+28e939,Raymond Davis,84,96,73,great participation +10,A
+060618,Barbara James,65,85,50,,D
+813385,Mark Hernandez,90,54,80,,C
+e9b754,Aaron Rogers,68,99,99,great final presentation +10,A
+f17261,Timothy Foster,95,88,69,,D
+3ea346,Christina Young,0,97,85,"cheated on exam, gets 0pts",D
+77bf3d,Douglas Ross,89,93,70,missed homework frequently -10,C
+b3b4e4,Ann Ward,68,83,76,,F
+6520ae,Arthur Lopez,79,81,89,great final presentation +10,A
+80cf8a,Richard Russell,73,95,93,,B
+5e4339,Roger Parker,87,93,85,great participation +10,A
+8c385b,Louise Morris,86,71,68,,C
+a38243,Ashley Wilson,95,96,64,,D
+95c45e,Adam Brooks,99,95,67,,B
+be9274,Katherine Turner,75,78,97,,B
+60f3b4,Emily Garcia,85,72,70,,C
+213b34,Kathryn Rivera,89,74,85,missed class frequently -10,C
+f2144b,Jean Bryant,74,94,84,great participation +10,A
+c97ec4,Craig Taylor,95,75,97,great final presentation +10,A
+9486df,Jonathan Cooper,83,93,77,,B
+36284d,Shawn Ramirez,78,58,86,great final presentation +10,B
+41d2ec,Sandra Gonzales,88,56,80,,C
+84aabd,Alice King,94,94,72,great participation +10,A
+57a7d7,Jeremy Morgan,84,87,96,great final presentation +10,A
+8b81cc,Peter Washington,99,76,95,great participation +10,A
+aab213,Albert Johnson,96,94,89,,A
+655f56,Sara Thompson,67,80,51,,D
+76c083,Joseph Reed,91,92,74,,B
+fdcc94,Theresa Sanders,77,96,78,,B
+5b2f76,Justin Bennett,99,86,95,missed class frequently -10,B
+bacc99,Julia Diaz,72,82,100,great participation +10,A
+6d25c7,Benjamin Bailey,89,99,73,great final presentation +10,A
+c4e180,Laura Wright,67,76,33,<p><samp>Invalid entry.</p>,F
+1c6561,Marilyn Martinez,46,70,77,,D
+b2b1d4,Matthew Long,46,92,66,,D
+919291,Michelle Cook,87,78,82,missed homework frequently -10,C
+9d3aa8,Amy Barnes,80,98,84,great participation +10,A
+e86e4c,Earl Flores,91,92,95,missed homework frequently -10,B
+dacfb9,Brandon Jenkins,80,60,80,,F
+56cc4f,Eric Howard,88,75,59,missed class frequently -10,D
+25d4ad,Victor Miller,93,73,97,great final presentation +10,A
+193408,Jessica Gonzalez,86,67,76,missed homework frequently -10,D
+b2a3ca,Margaret Lewis,59,94,80,missed homework frequently -10,B
+363a3f,Nicholas Robinson,61,77,88,,C
+31d114,Donald Butler,88,56,82,great participation +10,B
+c80059,Christine Peterson,86,89,85,great final presentation +10,F
+4ec774,Tina Perry,72,90,98,,F
+cd52b5,Deborah Gray,68,93,73,,C
+79d007,Larry Bell,94,93,91,missed homework frequently -10,B
+25ca30,Marie Alexander,91,98,97,great participation +10,A
+bc18ee,Susan Griffin,91,0,89,"cheated on exam, gets 0pts",D
+7af92f,Paula Powell,58,54,0,,F
+d6db38,Judy Roberts,93,88,79,missed homework frequently -10,C
+514b4e,Sean Mitchell,0,72,88,"cheated on exam, gets 0pts",F
+c33c21,Keith Clark,61,76,87,,C
+f0caf4,Evelyn Nelson,84,97,99,,A
+4faf00,Anna Patterson,86,98,95,,A
+df0368,Sharon Rodriguez,80,76,66,,C
+c8ef2c,John Perez,0,60,75,"cheated on exam, gets 0pts",F
+a3b392,Norma Price,73,64,87,missed homework frequently -10,B
+ff5692,Lillian Baker,0,69,90,"cheated on exam, gets 0pts",F
+e79b6e,Jeffrey Adams,86,45,86,great final presentation +10,B
+a0da76,Clarence Phillips,64,93,70,,C
+461371,Steve Smith,87,57,76,,C
+9f7f44,Christopher Anderson,61,65,100,missed homework frequently -10,D
+24cfc2,Bruce Stewart,87,56,85,,A
+2383a2,Amanda Williams,83,77,72,missed homework frequently -10,D
+a5a46a,Henry Brown,78,89,81,,B
+7e73d6,Thomas Scott,95,94,89,,A
+cb9258,Joyce Kelly,84,96,91,great final presentation +10,A
+b54c36,Billy Cox,67,93,93,,B
+f60864,Debra Torres,77,79,94,,B
+f25629,Russell Mitchell,86,74,61,,C
+b34a12,Nicole Kelly,0,71,80,"cheated on exam, gets 0pts",F
+61e807,Janet Walker,79,62,82,,C
+4591b4,Craig Morris,66,72,83,missed homework frequently -10,B
+fe27ba,Jean Hernandez,79,89,86,great final presentation +10,A
+0909cb,Larry Washington,73,82,69,missed class frequently -10,B
+cba083,Karen Collins,76,84,67,,C
+eae349,Jesse Simmons,0,84,72,"cheated on exam, gets 0pts",F
+b477ac,Nicholas Harris,0,92,56,"cheated on exam, gets 0pts",F
+f71050,Billy Wright,99,83,88,great participation +10,A
+7dc5af,Andrea Cooper,91,61,100,,B
+9b3382,Juan Bryant,83,52,88,missed homework frequently -10,D
+45234d,Rachel Sanders,83,93,54,,C
+cceb42,Catherine Lee,0,93,88,"cheated on exam, gets 0pts",D
+a40e3e,Judy Stewart,95,82,54,,C
+6b74a4,Ryan Reed,86,67,98,,B
+6d97c0,Patricia Allen,91,89,83,missed class frequently -10,C
+71a93a,Chris Watson,100,73,84,missed homework frequently -10,C
+b4a1fe,Amanda James,52,95,72,great participation +10,B
+6b6ec4,Judith Lopez,64,73,79,great final presentation +10,B
+347d55,Donald Flores,98,51,74,,F
+80b500,Mary Gonzalez,86,91,86,missed class frequently -10,C
+d6d208,Robert Nelson,97,97,92,missed homework frequently -10,B
+9c1e86,Eugene Ramirez,88,89,80,missed class frequently -10,C
+50bebd,Linda Thompson,54,80,81,,A
+b4d929,Timothy Turner,172,70,68,,C
+6b1427,Harry Diaz,78,63,75,great final presentation +10,F
+0c44f9,Betty Baker,93,90,82,,D
+c3875c,Kevin Brooks,66,73,89,<p><samp>Invalid entry.</p>,C
+4a3475,Jimmy Taylor,82,88,78,great final presentation +10,A
+fe8fea,Stephanie Williams,83,87,88,missed homework frequently -10,C
+71fc7a,Douglas Gonzales,53,100,78,great final presentation +10,B
+dc4e28,Christine Gray,93,70,97,,B
+ddd0ba,Paula Powell,93,73,82,,B
+2bd759,Jennifer Wood,93,79,97,great participation +10,F
+94e777,Ernest Richardson,99,86,54,,C
+17b236,Shirley Perez,85,80,60,,C
+c787f8,Joshua Bell,64,86,78,,C
+1fa9cb,Sara Rivera,95,88,77,,B
+cbd44f,Henry Jackson,96,62,92,great participation +10,A
+acd7e9,Diane Edwards,84,0,80,"cheated on exam, gets 0pts",F
+dcf360,Thomas Russell,88,71,94,great participation +10,A
+088de7,Aaron Clark,92,93,81,,B
+6c4ef2,Jessica King,93,94,94,,A
+2ac30c,Christopher Rodriguez,86,87,86,missed class frequently -10,C
+7554ac,Randy Wilson,80,85,84,missed homework frequently -10,C
+9d6277,Joan Smith,0,73,89,"cheated on exam, gets 0pts",F
+1d4586,David Davis,89,78,88,great participation +10,A
+177a10,Amy Sanchez,66,90,50,,B
+63e008,Angela Garcia,81,0,75,"cheated on exam, gets 0pts",F
+b2cf57,Melissa Griffin,87,93,76,missed class frequently -10,C
+8fc6a3,Marie Ross,71,76,56,,D
+5b2c55,John Foster,94,70,85,great participation +10,A
+9ae20c,Laura Campbell,90,60,78,,C
+014d82,Beverly Johnson,73,96,92,,B
+a7a562,Brian Carter,0,49,93,"cheated on exam, gets 0pts",F
+714b09,Mildred Murphy,97,81,100,great participation +10,F
+b81c7f,Julia Alexander,0,54,74,"cheated on exam, gets 0pts",F
+dbbcb7,Alice Cox,86,75,62,<p><samp>Invalid entry.</p>,C
+5458de,Philip Robinson,89,90,93,great final presentation +10,A
+bf5e17,Clarence Price,65,94,94,,B
+e60eb1,Adam Torres,95,999,89,,A
+299f65,Barbara Bailey,69,55,95,,C
+fc6b2d,Patrick Bennett,77,71,78,,C
+37fd76,Bobby Hall,99,59,70,missed class frequently -10,D
+4b1dcc,Ashley Rogers,88,93,92,great final presentation +10,A
+b20f6d,Martin Parker,81,92,77,,B
+0a2b7a,Martha Butler,84,74,91,great participation +10,A
+e01ea5,Gerald Phillips,85,81,87,,B
+af3867,Rose Coleman,88,67,92,,D
+ba0f30,Andrew Hughes,97,0,94,"cheated on exam, gets 0pts",B
+ab8a1c,Cynthia Hill,99,67,89,great final presentation +10,A
+c8cb74,Peter Evans,95,77,87,,B
+7b905c,Stephen Howard,81,95,77,,B
+7e47d0,Frances Patterson,72,80,69,,C
+198918,Christina Thomas,95,59,90,great participation +10,A
+018915,Keith Anderson,89,95,87,great participation +10,A
+e4742f,Johnny Ward,81,56,90,great final presentation +10,B
+d6cb52,Debra Adams,87,0,91,"cheated on exam, gets 0pts",D
+bcbe7b,Phyllis Scott,79,0,59,"cheated on exam, gets 0pts",F
+e2614a,Evelyn Miller,85,62,75,,F
+fa2fd9,Elizabeth Morgan,64,75,90,,C
+a3d6f5,Frank Jenkins,69,87,94,great participation +10,A
+cbaab2,Gregory Green,87,77,96,,B
+567b3d,Louise Martinez,80,92,84,,D
+939231,Pamela Peterson,52,80,50,missed class frequently -10,A
+6ec3d7,Walter Henderson,83,70,71,,C
+614fd6,Susan Cook,77,95,85,,B
+7d8853,Sharon White,72,80,93,,B
+0d0ab1,Willie Brown,89,67,95,great final presentation +10,A
+6b356b,Jeffrey Roberts,90,88,99,,A
+fc3a83,Daniel Lewis,85,79,87,,B
+bf4deb,Carolyn Young,69,95,62,great participation +10,B
+cbcebf,Lillian Martin,69,92,99,missed homework frequently -10,F
+af76a4,Anna Barnes,97,61,76,missed homework frequently -10,D
+f2be6b,Eric Moore,0,76,75,"cheated on exam, gets 0pts",F
+913048,Brandon Perry,91,74,88,great participation +10,A
+4a3f75,Steve Long,83,92,80,missed class frequently -10,C
+2254d6,Michelle Jones,82,0,58,"cheated on exam, gets 0pts",F
+be7541,Laura Copeland,92,96,90,,A
+60561a,Silvia Tucker,59,82,61,,D
+1aad87,Jesus Grant,65,91,72,,C
+612ebd,Ora Rios,65,81,75,,C
+196f78,Cathy Weber,97,0,92,"cheated on exam, gets 0pts",B
+fcdf1a,Aaron Taylor,71,86,89,missed class frequently -10,C
+9c94ca,Jesse Goodwin,94,0,95,"cheated on exam, gets 0pts",D
+bb13f4,Micheal Campbell,65,95,68,,A
+967af6,Christina Marshall,84,83,60,,C
+343dd3,Van Mckinney,67,87,95,missed homework frequently -10,C
+134233,Samantha Webb,88,69,100,,B
+ddb65f,Bernadette Higgins,65,98,93,,B
+7cb11e,Doyle Long,78,57,85,,A
+404534,Randy Hicks,92,97,5,,C
+904506,Marcia Alvarado,83,88,88,,B
+f4df5d,Curtis Nelson,83,79,93,great participation +10,F
+59bb90,Janice Cummings,96,91,90,great final presentation +10,A
+9d5445,Franklin Dennis,76,91,100,great participation +10,A
+436bd4,Tanya Sims,85,92,84,missed homework frequently -10,C
+6b1ead,Jackie Gutierrez,92,90,77,great participation +10,A
+087345,Roberta Greer,83,78,74,,C
+6fd557,Bridget Hunt,97,98,92,,A
+cc4821,Gerard Sandoval,88,78,91,great final presentation +10,A
+8576b8,Byron Lowe,95,41,56,,D
+e08025,Dwight Lawson,97,86,54,missed homework frequently -10,D
+21baf3,Gilberto Gill,68,73,81,missed class frequently -10,D
+d4db34,Saul Snyder,94,92,75,great participation +10,A
+cf31cf,Sheldon Gardner,96,84,74,,B
+e4f0d5,Terrance Myers,86,85,89,missed homework frequently -10,C
+a6e753,Mae Nash,87,81,86,,B
+ed82ec,Sherman Stevens,77,0,87,"cheated on exam, gets 0pts",F
+7a68f0,Marta Saunders,84,83,85,missed class frequently -10,C
+0859ef,Alfredo Lynch,0,69,93,"cheated on exam, gets 0pts",F
+5b2d9a,Anne Walker,94,95,90,missed class frequently -10,B
+97335b,Kelly Jackson,27,100,18,,D
+18669e,Luther Brock,92,74,88,great final presentation +10,A
+7c18ad,Allison Walton,72,91,92,,F
+77432b,Deanna Silva,0,77,81,"cheated on exam, gets 0pts",F
+82c1fc,Amanda Bowen,87,83,78,,B
+a9729d,Jan Bryan,69,85,79,,C
+558a4b,Irma Sanders,37,47,3,,F
+22957d,Neal Carter,51,65,97,,A
+85a914,Mathew Newton,90,99,90,,A
+5e2cb8,Cedric Nunez,85,0,96,"cheated on exam, gets 0pts",B
+ed1807,Nellie Evans,71,81,80,,C
+a1b3da,Wilma Bishop,88,80,91,missed class frequently -10,C
+8dfc49,Terri Moran,80,89,88,,B
+f7a71f,Melanie Hart,74,86,93,great participation +10,A
+1a77e5,Sammy Hodges,0,72,67,"cheated on exam, gets 0pts",F
+3a0e8a,Clyde Lamb,89,98,80,great participation +10,A
+eb6d03,Jason Morgan,92,92,76,,B
+1f6c26,Roland Brady,77,78,95,missed homework frequently -10,C
+17e0c2,Pearl Padilla,93,91,52,,C
+070561,Howard Burton,84,97,89,great participation +10,A
+604e66,Seth Lambert,56,76,60,,D
+7efafe,Wade Klein,80,95,61,,C
+8e6d24,Tasha Palmer,90,95,75,great final presentation +10,A
+805f44,Jonathon Norris,91,92,96,missed class frequently -10,B
+0fe053,Bertha Lucas,66,51,500,missed class frequently -10,D
+9d2936,Al Wong,58,92,93,,D
+db4bcf,Kerry Fernandez,72,93,98,great participation +10,F
+ee3387,Esther Mclaughlin,80,96,83,missed homework frequently -10,C
+f492d2,Erin Jones,100,69,41,,D
+080e8c,Joe Munoz,91,98,77,,B
+0d8235,Catherine Elliott,71,77,73,great final presentation +10,B
+02c7df,Gina Ingram,90,73,91,,B
+9f423d,Jared Ball,66,95,86,,B
+f478b4,Wm Pena,67,88,89,,B
+e38f8a,Bernice Butler,50,67,94,great final presentation +10,B
+1196ee,Raul Hanson,84,99,71,,B
+477ba7,Colin Schwartz,80,65,55,,D
+dbcef2,Rolando Delgado,67,83,77,,A
+4c682d,Greg Santiago,94,78,78,,B
+efb3be,Erica Montgomery,72,63,91,great final presentation +10,B
+e1f71a,Jose Hardy,50,94,79,missed homework frequently -10,C
+310dca,Paul Buchanan,83,90,83,,B
+85a963,Clinton Watson,74,79,92,missed homework frequently -10,C
+337183,Erick Erickson,93,75,93,,B
+8c4319,Darren Hall,72,88,96,,B
+34ccdd,Hattie Oliver,90,100,89,great participation +10,F
+437625,Katie May,72,92,85,great participation +10,A
+528e8f,Homer Garza,60,92,55,,D
+05a0bf,Steve Francis,83,79,67,,C
+92ebce,Erika Leonard,93,96,94,great final presentation +10,A
+4f3bf8,Reginald Torres,63,68,84,,C
+790ccb,Edmund Davis,77,88,82,missed homework frequently -10,C
+a5992a,Antonia Holland,94,82,97,great final presentation +10,A
+a74a35,Lena Watts,69,86,97,missed homework frequently -10,C
+794c31,Darla Hawkins,90,77,99,great participation +10,A
+c96390,Eddie Wallace,0,99,92,"cheated on exam, gets 0pts",D
+c84e0a,Darrin Peterson,93,82,88,,D
+f2616f,Gertrude Warner,86,86,85,missed class frequently -10,C
+15ec3d,Jeanne Ortiz,76,92,64,great participation +10,B
+5ba277,Justin Simmons,94,97,93,great participation +10,A
+a4910b,Lynette Ross,89,71,94,,F
+c32981,Ann Stone,89,57,47,,D
+695f96,Leroy Fuller,96,69,92,,B
+b3c9a0,Omar Murphy,91,74,88,,B
+487e6d,Dominic Nguyen,85,100,78,,B
+430247,Nathaniel Moore,85,0,59,"cheated on exam, gets 0pts",A
+de5426,Megan Ryan,81,94,82,,B
+5bf926,Gladys Miller,87,64,94,,D
+523ede,Lorraine Vega,68,56,98,great final presentation +10,B
+be608c,Helen Wallace,56,79,85,,C
+264458,Pearl Davis,88,83,83,,B
+52d316,Jorge Greer,85,93,84,,D
+5e9c99,Sandy Terry,87,79,82,great final presentation +10,A
+f13fdf,George Clayton,92,87,60,great participation +10,B
+e79f61,Luz Cunningham,81,97,100,,A
+df814d,Cedric Burgess,78,85,84,,B
+1fcea5,Amber Copeland,94,83,88,great final presentation +10,A
+60ee3f,Jan Benson,0,97,88,"cheated on exam, gets 0pts",D
+c9f351,Winifred Martin,96,64,93,great final presentation +10,A
+3d0344,Adrian Bailey,69,87,51,,D
+21499d,Nicolas Patton,81,67,100,great participation +10,A
+bcd50a,Wayne Flores,81,87,60,missed class frequently -10,D
+308e1e,Jessica Blake,66,83,77,,F
+b736fb,Thelma Howard,76,72,100,great final presentation +10,A
+a4cca4,Allen Casey,92,73,85,great final presentation +10,A
+4d6494,Ashley Hogan,80,85,93,great participation +10,A
+882fb9,Rochelle Moran,86,81,88,great final presentation +10,F
+32e464,Kristine Newman,56,75,71,,D
+449eb9,Paul Elliott,72,0,76,"cheated on exam, gets 0pts",F
+66f462,Fredrick Leonard,62,64,63,,D
+c02824,Angelina Rivera,75,0,65,"cheated on exam, gets 0pts",F
+6785fd,Jeannie Thornton,89,65,74,missed homework frequently -10,D
+31c10d,Brad Saunders,91,0,68,"cheated on exam, gets 0pts",F
+edd586,Audrey Barnett,72,81,80,,C
+bda572,Hugh Gonzales,73,96,100,great participation +10,A
+d2b805,Tara Simmons,78,94,83,,D
+63be9d,Ricardo Mathis,94,82,83,,B
+d08463,Grace Wilkerson,95,83,100,,F
+051ae6,Tanya Buchanan,37,38,20,,F
+2ef072,Nadine Willis,93,56,74,,C
+068e03,Rebecca Craig,91,75,100,great participation +10,A
+cbe2f7,Eric Mendoza,82,94,85,,B
+34a7d0,Lela Richards,83,79,92,missed homework frequently -10,C
+cbb6f5,Gustavo Massey,92,44,66,,D
+bcdf72,Bennie Ramsey,78,0,86,"cheated on exam, gets 0pts",F
+ea43f9,Iris Barnes,80,96,80,,B
+9d5c6f,Jenny Norris,87,48,91,,C
+855d7e,Lewis Reyes,78,89,68,,C
+ee538b,Latoya Keller,100,100,99,,F
+60786d,Faith Allen,43,0,35,"cheated on exam, gets 0pts",F
+338cae,Laverne Swanson,0,89,90,"cheated on exam, gets 0pts",A
+fbc055,Lillian Page,88,74,96,great final presentation +10,A
+912928,Ed Greene,81,98,96,,A
+454e51,Kristopher Garrett,84,92,86,,B
+03b168,Kay Briggs,63,36,65,missed homework frequently -10,F
+2076d3,Margaret Wilkins,67,98,65,missed homework frequently -10,D
+84727d,Beatrice Perez,0,95,94,"cheated on exam, gets 0pts",D
+de292e,Ron Duncan,84,99,47,great final presentation +10,F
+68827d,Oliver Hanson,91,98,75,missed class frequently -10,C
+0bbb87,Bradley Garner,85,91,83,great participation +10,F
+39f6e5,Boyd Perkins,92,50,87,,C
+a0a66b,William Austin,89,84,82,missed class frequently -10,F
+0ce163,Elvira Mcdonald,87,74,86,missed homework frequently -10,A
+dfea38,Roderick Henry,90,96,71,missed class frequently -10,C
+0f3439,Mona Rice,61,54,100,,C
+890038,Ian Stokes,74,48,74,,A
+6235cb,Janis Douglas,98,68,58,,C
+fb9f63,Toby Schwartz,92,87,49,,C
+cfba4c,Johanna Chapman,70,75,99,,B
+832336,Harvey Conner,80,0,99,"cheated on exam, gets 0pts",D
+bf1b14,Wendell Aguilar,66,83,96,,D
+433fb9,Don Osborne,69,49,75,,D
+d98b67,Gregory Green,93,95,67,,B
+6db401,Edna Fuller,87,85,77,,B
+88d991,Tyrone Lawson,82,68,48,,D
+faf401,Alton Ruiz,75,90,93,,B
+155b05,Morris Pena,67,92,64,,F
+5ba892,Marta Schmidt,98,97,93,,A
+bbcb14,Gene Price,73,93,86,,B
+8c4f45,May Cooper,58,0,71,"cheated on exam, gets 0pts",F
+c1226d,Alfonso Morris,97,94,76,,B
+01dd6e,Alice Haynes,92,99,87,missed homework frequently -10,B
+e41b2c,Betty Collins,73,87,92,,B
+192ed3,Raymond Boone,79,60,84,,C
+3b6bc7,Nancy Ward,62,54,71,,D
+81e9ff,Ken Gonzalez,41,80,93,,C
+6225b8,Nora Tucker,91,90,81,great participation +10,A
+12a73f,Cary Norman,96,83,73,great final presentation +10,A
+c2f145,Johnathan Farmer,98,88,95,,F
+9ea285,Gilberto Woods,83,80,86,,B
+938245,Katie Soto,86,90,80,great final presentation +10,A
+7f6511,Kenny Weaver,90,67,77,missed class frequently -10,D
+54a40e,Alexis Armstrong,59,68,65,,D
+802d46,Bobbie Ross,76,85,74,,A
+7116b4,Mario Hammond,71,89,96,great final presentation +10,A
+ecbe49,Jessie Marshall,82,68,80,,C
+c45d3d,Luke Lynch,57,74,86,,C
+ba680b,Sabrina Washington,91,97,96,,A
+febb53,Carlos Rodgers,89,75,64,great final presentation +10,F
+975b58,Darnell Rodriquez,69,87,70,missed homework frequently -10,D
+d50b9d,Greg Ray,90,66,96,great final presentation +10,A
+a8ccd4,Elaine Mckinney,92,0,71,"cheated on exam, gets 0pts",F
+71a157,Natalie Byrd,71,89,90,,B
+ccd8c8,Gerard Coleman,53,0,76,"cheated on exam, gets 0pts",F
+1afe93,Rudolph Hubbard,90,79,89,,D
+87478a,Lucy Fowler,92,95,92,,A
+74676b,Marion Wilkerson,81,100,74,,F
+46f477,Loretta Cummings,92,71,93,great participation +10,A
+79d45f,Wilson Lowe,0,87,94,"cheated on exam, gets 0pts",D
+2d09ef,Wanda Thornton,54,76,96,,C
+204fe8,Tanya Perkins,86,67,80,,C
+9665f9,Timothy Craig,94,79,58,great final presentation +10,B
+523e05,Sherry Barton,57,89,55,,B
+8686dd,Dorothy Norris,81,81,91,,B
+cfdfba,Stella Hubbard,71,94,89,,B
+8dabc9,Edna Potter,95,83,83,,B
+e91257,Olga French,99,87,71,,B
+3bcc91,Troy Mcgee,81,86,95,great participation +10,A
+9df82e,David Medina,94,78,89,,B
+9a1de5,Kirk Bryant,99,73,84,missed homework frequently -10,C
+bca07d,Cameron Elliott,56,90,71,missed class frequently -10,D
+86bd1a,Bernadette Larson,-20,38,29,,F
+8c54c1,Walter Lane,94,77,82,great participation +10,A
+7da2b6,Lance Cannon,100,62,61,missed class frequently -10,D
+1a7614,Chris Turner,88,92,83,,B
+7fdb63,Agnes Jordan,89,86,90,great final presentation +10,A
+0f7f19,Hazel Chavez,93,53,77,,C
+28a05f,Jeannette May,92,0,61,"cheated on exam, gets 0pts",F
+162d3c,Cedric Bishop,89,77,68,,F
+3dbb29,Felipe Casey,96,98,92,great final presentation +10,A
+672ab5,Amy Adams,79,98,84,,D
+03d6b7,Lamar Lyons,93,47,79,great participation +10,B
+66c47a,Doyle Phelps,92,93,73,missed homework frequently -10,C
+ad9ffe,Bill Rodriguez,67,69,84,missed class frequently -10,D
+6a11a5,Harriet King,94,79,79,great participation +10,A
+bd023c,Elijah Thompson,95,73,57,great final presentation +10,B
+8639ff,Pat Watson,91,91,78,great final presentation +10,A
+985a12,Faye Porter,81,69,95,,B
+942d65,Phyllis Kennedy,80,76,96,missed class frequently -10,A
+4a6f46,Sean Mendez,76,82,91,great final presentation +10,A
+de03e5,Norman Swanson,78,95,54,missed homework frequently -10,A
+bb243d,Julia Hunter,86,96,100,,A
+88e562,Ana Wells,98,80,89,great final presentation +10,C
+1dc157,Bob Griffith,79,73,72,,C
+a9c51a,Earl Santiago,83,74,97,,B
+fec764,Terence Boyd,78,95,87,,B
+77c9c5,Felicia Flowers,60,79,65,,C
+735d5e,Annette Tucker,89,66,90,,B
+3b57c6,Bridget Warren,81,96,96,great participation +10,A
+431b5d,Adrienne Sparks,68,65,89,,A
+ded944,Scott Nash,86,85,89,,D
+649fd5,Adrian Herrera,99,99,87,,A
+385b54,Rosalie Lee,68,95,90,,B
+44dd54,Ruth Gonzalez,79,81,69,,C
+d8dff2,Darren Sims,95,69,83,missed homework frequently -10,C
+e447ea,Saul Carroll,68,0,38,"cheated on exam, gets 0pts",F
+a4b5a3,Conrad Mcguire,93,82,85,missed homework frequently -10,C
+2b45d1,Gloria Rowe,80,85,86,missed homework frequently -10,A
+1a32f1,Verna Bryan,0,87,99,"cheated on exam, gets 0pts",D
+19e8e6,Nancy Hanson,96,79,92,great participation +10,F
+0e0d2a,Mercedes Mendoza,95,82,76,,D
+a04379,Kelly Townsend,89,81,64,missed class frequently -10,D
+9f6d79,Sadie Dawson,91,97,53,great participation +10,D
+1f764f,Steve Waters,65,94,92,,B
+c304a8,Bertha Powell,64,91,97,,B
+1f88cd,Kelly White,94,90,90,great participation +10,A
+a6fbc9,Glen Mullins,85,82,55,great participation +10,B
+44c1e5,James Ellis,88,91,80,,B
+c6a20e,Irving Davis,99,95,99,great participation +10,A
+8a0a87,Myrtle Silva,66,0,78,"cheated on exam, gets 0pts",A
+04500c,Marcia Anderson,49,77,89,great participation +10,B
+f85354,Ray Mccarthy,88,69,89,,B
+85c1f9,Stephen Bowman,77,54,70,,D
+46dc7c,Jose Ray,74,80,90,,B
+f680e8,Michele Rice,86,97,95,,A
+bb3bab,Leigh Jensen,97,88,74,great participation +10,F
+098658,May Hicks,0,96,87,"cheated on exam, gets 0pts",D
+37ad23,Martin Bowen,89,74,85,,B
+600f0b,Naomi Doyle,55,71,98,missed homework frequently -10,A
+7e6566,Raquel Pearson,78,76,72,,C
+26b585,Amos Burns,99,77,81,great final presentation +10,A
+fceb4e,Daryl Carlson,78,63,88,,C
+64c2db,Sidney Fernandez,26,31,3,,F
+932be0,Ethel Griffin,88,88,83,missed class frequently -10,C
+a1ea50,Darrell Romero,89,85,87,great final presentation +10,A
+d550ea,Derrick Harmon,89,78,94,,F
+cfdef4,Don Berry,93,81,77,great participation +10,A
+c1246d,Gerardo Dunn,71,96,65,missed class frequently -10,D
+b037d4,Sandy Black,70,96,32,missed homework frequently -10,F
+865cbd,Jodi Nelson,95,87,82,missed class frequently -10,A
+6c8e02,Pamela Franklin,81,56,58,,D
+59109e,Kathy Yates,91,69,90,,B
+7632bc,Rafael Patton,97,84,87,great participation +10,A
+705a75,Marcella Keller,61,0,97,"cheated on exam, gets 0pts",F
+e9e16e,Wade Wise,70,99,90,,B
+57b96e,Otis Foster,72,91,91,,F
+dbf691,Nina Ward,73,77,73,,C
+fcb2db,Roland Gross,58,90,100,great participation +10,A
+b0306d,Salvador Roy,77,51,70,,B
+9afe83,Ann Knight,78,58,86,great final presentation +10,B
+d5938e,Ruben Hansen,95,94,89,,A
+492439,Tyler Simon,65,0,95,"cheated on exam, gets 0pts",F
+c8a747,Barry Pierce,80,0,98,"cheated on exam, gets 0pts",B
+52b32c,Luis Moss,65,0,92,"cheated on exam, gets 0pts",F
+ce494c,Jackie Cole,89,91,57,,C
+c07e99,Nicole Ferguson,65,72,86,great participation +10,B
+e202f3,Pat Little,74,81,74,,A
+0094d7,Sarah Rowe,94,91,93,great participation +10,A
+1c40fc,Claire Long,66,82,82,missed homework frequently -10,A
+4a41b3,Colleen Lambert,92,81,54,,C
+b87af9,Hazel West,78,75,96,,B
+94ef75,Marjorie Francis,18,50,26,,F
+7e33f1,Christine Gonzales,78,84,71,,C
+7c89a5,Theresa Coleman,84,81,88,,B
+3dad3d,Rosalie Robinson,90,0,90,"cheated on exam, gets 0pts",A
+152209,Percy Alvarez,0,61,84,"cheated on exam, gets 0pts",F
+397a45,Horace Paul,85,94,84,,B
+6ad6ea,Curtis Rogers,100,82,72,great participation +10,A
+3dd1e5,Jeanette Morgan,64,70,86,,F
+3e05b2,Wilfred Franklin,68,74,40,missed homework frequently -10,F
+bea725,Clyde Williams,90,82,60,missed class frequently -10,D
+84ebfc,Christie Garcia,87,97,99,,A
+7b00e6,Saul Horton,0,75,78,"cheated on exam, gets 0pts",F
+da9699,Elijah Hill,76,74,97,,B
+c54fc5,Gerald Hogan,90,88,84,missed homework frequently -10,C
+8fdfa8,Alberto Mack,92,72,94,,B
+a3aa70,Kristine Potter,87,83,87,missed class frequently -10,C
+1d9bb1,Clayton Duncan,87,82,57,,C
+982758,Vernon Bell,70,92,96,missed homework frequently -10,F
+cbf51c,Darrell Fletcher,94,77,87,,B
+4938b4,Fernando Harper,84,65,95,missed class frequently -10,C
+d57e1a,Loren Howell,92,79,98,great final presentation +10,A
+6550c0,Marguerite Baldwin,53,89,78,,A
+dfe09e,Adam Rodriguez,0,83,76,"cheated on exam, gets 0pts",F
+a23de6,Taylor Spencer,82,69,75,great final presentation +10,B
+a958ce,Gustavo Holland,88,90,81,missed homework frequently -10,C
+5853bc,Courtney Schwartz,78,89,58,,F
+1ee8dc,Glenn Harrington,41,88,98,missed class frequently -10,D
+97b5cc,Alvin Mcdonald,93,68,86,missed homework frequently -10,C
+0648a4,Johnnie Washington,92,75,93,missed homework frequently -10,C
+04d913,Cedric Arnold,53,0,94,"cheated on exam, gets 0pts",F
+c771eb,Garry Cain,90,95,68,,B
+a4abb0,Meghan Hernandez,43,76,91,missed homework frequently -10,D
+a7eb4c,Marianne Mccoy,96,73,89,missed homework frequently -10,C
+b8f3a8,Justin Malone,79,76,98,,B
+491efb,Amos Blake,82,87,82,,B
+d25806,Alma Carson,82,80,98,great final presentation +10,A
+185495,Brett Pittman,93,96,90,,A
+d0b11d,Donna Nash,88,96,79,great final presentation +10,A
+1f40e6,Susan Simmons,58,66,74,,D
+b71f53,Ricardo Stephens,88,81,85,,B
+d2977f,Sergio Schneider,58,80,89,,C
+74fed8,Mathew Wise,97,76,90,,B
+3d0fdf,Rhonda Lloyd,90,74,95,great participation +10,F
+f1a6b8,Dominic Bradley,79,86,99,great final presentation +10,A
+e871c0,Dexter Palmer,93,36,62,,D
+e34bcc,Leland Craig,34,60,92,missed homework frequently -10,D
+390000,Darrel Joseph,83,62,55,,D
+3065d6,Dianna Chandler,81,75,77,,C
+99721f,Gerard Montgomery,80,77,98,missed class frequently -10,C
+2603bd,Roger Andrews,99,97,70,,B
+38d57f,Eunice Fuller,83,99,80,,B
+3d0aac,Shaun Vasquez,80,72,97,,B
+091ebb,Steven Powers,0,68,87,"cheated on exam, gets 0pts",F
+611b02,Victor Murphy,71,95,45,,D
+3235bf,Melinda Burton,92,89,82,great final presentation +10,A
+b3df84,Mattie Sparks,89,62,93,,B
+ff7179,Kristy Williamson,64,89,91,great final presentation +10,A
+0a23c5,Brent Hale,0,79,68,"cheated on exam, gets 0pts",F
+622a4a,Jill Johnston,80,91,60,,A
+9403ea,Martha Gill,96,0,62,"cheated on exam, gets 0pts",F
+04babf,Donnie Gibbs,70,92,93,missed homework frequently -10,C
+d18603,Lydia Collier,48,50,65,,F
+d30e8a,Matthew Fleming,0,89,91,<p><samp>Invalid entry.</p>,A
+75ce98,Antonio Shelton,19,89,30,,F
+7cb144,Yolanda Lindsey,99,84,94,,A
+4f4f99,Vera Fitzgerald,94,97,91,,A
+0c883c,Bennie Vaughn,84,93,62,missed class frequently -10,D
+fd764d,Brittany Delgado,82,64,80,great final presentation +10,B
+6afd2d,Freda Barnes,78,60,88,great final presentation +10,B
+701ea2,Merle Gonzalez,71,92,94,,B
+43c0c8,Johanna Schmidt,59,84,83,missed class frequently -10,D
+535cbe,Earl Holloway,74,96,92,missed class frequently -10,C
+0ab17d,Louis Smith,80,95,58,,F
+91c994,Marcos Fernandez,96,64,92,great final presentation +10,A
+90681b,Alfonso Cox,0,88,95,"cheated on exam, gets 0pts",D
+3f2482,Gloria Obrien,97,65,85,missed class frequently -10,C
+0ec269,Dustin Moss,64,85,97,,B
+551c0d,Noah Copeland,85,97,86,great participation +10,A
+7f55df,Jay Reed,85,96,48,,C
+008816,Nadine Graham,87,58,34,missed homework frequently -10,F
+e3ea98,Jamie Berry,85,82,85,great participation +10,A
+5f5671,Mildred Haynes,93,74,91,,B
+236318,Rudolph Pierce,58,75,91,missed class frequently -10,D
+3b908c,Sophie Owen,98,73,83,,B
+946bfc,Byron Price,92,84,92,great participation +10,A
+bd574a,Gene Hamilton,93,88,84,great participation +10,F
+73640a,Joseph Watts,88,80,93,,B
+75a52e,Angelica Torres,72,94,88,,B
+9dad4d,Guadalupe Barnett,58,90,97,,B
+bb6d04,Dale Glover,70,97,42,,D
+5a14f6,Javier Logan,73,86,64,,C
+0e6d17,Carole Kim,76,88,94,great final presentation +10,A
+414597,Robin Peterson,71,96,83,great final presentation +10,A
+481835,Nettie Lamb,84,88,92,great final presentation +10,F
+5ad7f1,May Richardson,78,95,78,,B
+2a5702,Amber Oliver,49,95,77,,C
+7948b6,Kelly Taylor,85,93,58,,C
+da9646,Vanessa Scott,91,90,74,,D
+cefe03,Erma Vargas,98,97,87,,F
+e62eaf,Elisa Simmons,74,98,86,,B
+946777,Myron Collins,94,0,72,"cheated on exam, gets 0pts",F
+654a1c,Mae Joseph,83,85,92,great final presentation +10,A
+7af21d,Nora Cannon,85,87,90,,B
+5686d8,Laurence Riley,65,0,57,"cheated on exam, gets 0pts",F
+a33f92,Angela Reeves,72,0,80,"cheated on exam, gets 0pts",F
+44d129,Blake Fleming,90,76,81,,B
+794659,Hugo Johnson,0,65,88,"cheated on exam, gets 0pts",F
+35b9ec,Pat Leonard,89,97,96,missed homework frequently -10,B
+b6d817,Maureen Frank,84,94,100,great final presentation +10,A
+0fa39c,Arturo Fletcher,95,80,86,,F
+e8901f,Gilbert Dixon,69,90,86,missed homework frequently -10,C
+6a5846,Rebecca Waters,95,90,69,,B
+53cac1,Lindsay Moss,93,98,75,,D
+e8c2c4,Cecilia Morgan,72,85,91,missed homework frequently -10,A
+515394,Lucia Cobb,85,74,87,missed homework frequently -10,A
+c67dd3,Duane Pittman,90,82,86,,F
+89efac,Dawn Logan,69,86,75,,C
+eaa94b,Stewart Allen,99,75,78,,B
+015745,Cristina Santiago,96,95,89,,A
+9923ac,Fernando Silva,99,93,90,,A
+0ac829,Chelsea Dawson,0,92,60,"cheated on exam, gets 0pts",F
+00dfe5,Karen Burton,85,91,84,,B
+64a22b,Shane Robbins,99,62,90,,B
+539378,Tanya Mccormick,62,92,95,,B
+275403,Brad Jacobs,60,37,62,,F
+c1864f,Hilda Rowe,99,86,74,,D
+a2f9d4,Gilberto Weber,48,47,84,missed homework frequently -10,A
+00c486,Marlon Ramsey,70,84,76,,C
+4e175c,Monique Tyler,88,91,53,,C
+1d5dbb,Carole Harvey,74,61,87,,C
+87247d,Emilio Newman,98,71,93,,B
+300ff8,Gregg Jennings,51,75,87,,C
+693c20,Gail Hubbard,98,85,82,great final presentation +10,A
+9bf6f9,Kimberly Osborne,97,0,42,"cheated on exam, gets 0pts",F
+92991e,Paula Lynch,83,91,63,,F
+4d65cf,Lonnie Gibbs,82,61,87,great participation +10,B
+59f134,Kurt Briggs,92,84,62,,C
+b478d0,Ellis Barnett,86,89,82,,B
+f68d7d,June Norris,73,74,76,missed class frequently -10,B
+30797d,Carrie Gross,87,0,96,"cheated on exam, gets 0pts",D
+785161,Marvin Carlson,52,86,87,,C
+b9e93d,Abel Lowe,71,94,95,great final presentation +10,A
+aec48e,Marie Ortiz,82,90,85,,B
+00c500,Thelma Chandler,96,96,88,,A
+a83840,Flora Owen,66,95,87,great final presentation +10,A
+2bbf06,Johnny Shaw,68,80,74,,A
+6183f2,Roosevelt Sullivan,53,89,88,great final presentation +10,B
+803d2e,Freda Goodman,80,96,81,,D
+494da2,Salvatore Lawrence,65,69,69,,D
+53a3ea,Eleanor Snyder,70,96,81,great final presentation +10,A
+3b6719,Toby Hughes,86,85,84,missed class frequently -10,C
+679a97,Mattie Coleman,64,85,97,missed class frequently -10,A
+f7555f,Byron Love,87,0,70,"cheated on exam, gets 0pts",A
+6a6bfd,Karla Hines,94,90,99,missed class frequently -10,B
+bc714b,Nettie Barrett,66,74,80,missed class frequently -10,D
+4815a3,Andrew Moran,62,98,93,great participation +10,A
+3f4dba,Howard Quinn,0,63,88,"cheated on exam, gets 0pts",F
+c772fd,Dan Watts,82,99,82,,B
+cac168,Shelley Klein,85,90,80,missed homework frequently -10,C
+06e29b,Renee Medina,78,73,98,,B
+64c2f3,Stella Padilla,91,68,88,,D
+57a2e9,Anna Andrews,70,71,88,great final presentation +10,B
+32d53f,Pauline Morrison,71,78,80,great final presentation +10,D
+97f330,Audrey Park,85,68,76,great participation +10,F
+24daf9,Rudy Lindsey,94,78,96,great participation +10,A
+127223,Gregory Harmon,100,100,87,missed homework frequently -10,B
+29f7ae,Seth Griffin,96,73,94,great participation +10,A
+645813,Preston Stone,67,88,91,,B
+36a80a,Jimmie Cunningham,79,84,64,great final presentation +10,B
+498247,Della Berry,86,87,77,,B
+a8e4cf,Wm Wilkerson,83,94,78,missed homework frequently -10,F
+536815,Sergio Luna,97,90,72,,B
+923071,Walter Ross,75,70,75,,A
+10ed39,Megan Fox,83,71,70,great participation +10,D
+35e826,Mona Woods,87,76,72,,C
+2a3194,Ronnie Moreno,65,82,83,missed homework frequently -10,A
+d291b3,Inez Terry,69,72,89,,C
+543820,Wilma Robertson,100,91,83,great participation +10,A
+0fa511,Roderick Watkins,78,71,94,,B
+85f57e,Miranda Walton,61,78,64,,D
+0ac3dc,Bryan Kennedy,100,93,70,,D
+4be93c,Willie Bush,85,88,81,,B
+930e7c,Sue Schmidt,92,67,65,missed class frequently -10,D
+f00c02,Ginger Carpenter,97,86,68,missed homework frequently -10,A
+6be392,Kerry Valdez,89,95,73,,D
+79d5e2,Teri Bennett,87,80,65,great final presentation +10,B
+17e02f,Edgar Hale,92,0,94,"cheated on exam, gets 0pts",D
+fe0c11,Mildred Williams,81,0,95,"cheated on exam, gets 0pts",D
+f799c7,Jaime Rodriquez,82,69,92,,B
+47cddb,Samantha Schultz,74,73,77,great final presentation +10,B
+772cc1,Wilson Wise,75,67,78,great final presentation +10,F
+37b7ea,Jeff Stephens,80,59,86,,C
+a804c6,Zachary Hamilton,79,92,90,missed class frequently -10,C
+dec99c,Rosemary Mcguire,67,63,83,great participation +10,B
+f24702,Gloria Graves,88,88,79,,B
+fa2926,Robin Valdez,76,87,60,missed homework frequently -10,D
+076d92,Lori Richards,0,79,65,"cheated on exam, gets 0pts",F
+cdaced,Sonia Wallace,65,93,88,great final presentation +10,A
+eca73f,Conrad Bryan,20,17,38,,F
+9eaa47,Dean Carr,73,64,88,,A
+8fa35a,Carole Fisher,94,88,79,great participation +10,A
+395839,Maurice Mccormick,93,71,89,,B
+656d2e,Jimmy Chavez,67,0,76,"cheated on exam, gets 0pts",F
+e3ed94,Lillie Perkins,79,73,78,,C
+6439dc,Johnnie Townsend,84,76,65,missed class frequently -10,D
+4c8cb1,Eva Moore,47,77,88,,C
+7acfd1,Tommy Rodgers,74,65,85,,A
+9c15dd,Jaime Sutton,84,90,100,,A
+8c8e4f,Kelly Barton,84,0,77,,D
+c83ec9,Kyle Murray,80,0,78,"cheated on exam, gets 0pts",A
+dff0fb,Lowell Cobb,84,85,61,,C
+d68299,Jessie Johnson,57,85,86,,C
+c19761,Rosalie Sullivan,94,0,89,"cheated on exam, gets 0pts",D
+afb6ce,Blanche Mckinney,73,80,95,,B
+d4d58b,Elsie Logan,87,80,91,,B
+a93747,Dominick Santos,100,80,78,missed class frequently -10,C
+0a9009,Guadalupe Abbott,56,81,90,<p><samp>Invalid entry.</p>,F
+846993,Darnell Fowler,67,65,65,,D
+de93f1,Joy Stone,56,97,92,great final presentation +10,A
+1a9a50,Randal Drake,79,0,75,"cheated on exam, gets 0pts",F
+f78399,Johanna Griffith,66,95,95,,B
+1c1ee0,Gerard Sanchez,0,79,96,"cheated on exam, gets 0pts",D
+145f6e,Cameron Marsh,88,80,89,,B
+042686,Susan Pierce,87,74,95,missed class frequently -10,C
+ef10df,Kirk Fitzgerald,71,92,83,,B
+2669e6,Cristina Erickson,68,82,97,,B
+7e34cd,Amy Fields,74,72,97,missed class frequently -10,F
+83e31f,Jasmine Swanson,90,92,88,great participation +10,A
+ca7327,Viola Martinez,79,80,91,,B
+0bdad5,Courtney Richardson,62,0,42,"cheated on exam, gets 0pts",B
+34416e,Theresa Anderson,78,48,96,,C
+4a1d6d,Shawn Hill,84,85,88,great participation +10,A
+ea6e42,Don Ortega,38,5,40,missed class frequently -10,F
+6ecc7e,Benny Wise,88,79,98,great final presentation +10,A
+3dff61,Chris Schwartz,37,83,69,missed homework frequently -10,F
+9cc5f8,Jamie Stokes,59,37,75,missed homework frequently -10,F
+35674a,Frederick Andrews,0,97,60,"cheated on exam, gets 0pts",F
+fd7705,Lauren Wong,74,80,91,,B
+161625,Kurt Norris,88,66,74,,C
