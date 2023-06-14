@@ -52,19 +52,19 @@ If your dataset is big (over 100k rows), we recommend an instance with lots of m
 
 ## Common Errors
 
-If you are running into issues when using the Data Inspector, here are some common issues and potential solutions:
+When using Data Inspector, here are some common problems and potential solutions:
 
 - **Data Inspector is skipping all columns**
 
-    Data Inspector can only inspected categorical or numeric columns. If youre dataset only contains text columns, Data Inspector will not be able to run any data quality inspections. Please try again with another dataset that contains at least one categorical or numeric column.
+    Data Inspector will only inspect columns with numeric or categorical values. If your dataset only contains text columns, Data Inspector will not run any data quality inspection. Please try another dataset containing at least one categorical or numeric column.
 
 - **Insufficient memory**
 
-    You can try running Data Inspector on a smaller subsample of you data (however try to preserve all the classes) to verify if memory is the issue for your task. If memory is the issue, try running your task on an instance that has a larger memory allocation.
+    If Data Inspector is failing for a large dataset (many rows or many columns), try running a smaller subsample of your data to verify if memory is a problem. If memory is the problem, try running your task on an instance type that has a larger memory allocation.
 
 
 ## Additional Information and Resources
 
-This solution trains state-of-the-art ML models on your dataset which may take some time for large datasets. You can get results faster by specifying a more powerful instance type (that also has more memory, which may be required to handle larger datasets). Even though more powerful instance types cost more per hour, the overall cost may not be much greater due to the decreased runtime.  You can further decrease the runtime by setting the hyperparameter `runtime = "fast"` (see hyperparameters section above for more details).
+Data Inspector trains state-of-the-art ML models on your dataset which takes time for large datasets. You can get results faster by specifying a more powerful instance type (that also has more memory, which may be required to handle larger datasets). Even though more powerful instance types cost more per hour, the overall cost may not be much greater due to the decreased runtime.  You can further decrease the runtime by setting the hyperparameter `runtime = "fast"` (see hyperparameters section above).
 
 For further questions/support, please email: support@cleanlab.ai. Your email subject line must state that you are using Data Inspector in AWS Marketplace. 
