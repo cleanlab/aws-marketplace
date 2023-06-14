@@ -1,23 +1,21 @@
 # Data Inspector
 
-Cleanlab builds AI solutions to assess data quality in messy real-world applications. 
-
-**Data Inspector** is a tool that can automatically identify entries in a dataset that are likely incorrect. Simply provide any tabular dataset, and state-of-the-art ML models will be trained to score the quality of each datapoint and flag any entry that is likely erroneous. Data Inspector can identify data issues in any standard tabular dataset (including columns that are: text, numeric, or categorical — with missing values allowed). It returns 3 CSV files about your data, stating: whether an entry appears to have issues, a quality score for how likely each entry is correct, plus an alternative suggested value for each entry in your dataset.
+**Data Inspector** is a tool that uses AI to automatically identify entries in any tabular dataset (CSV file) that are likely incorrect. Simply provide any data table (including columns that are: text, numeric, or categorical — with missing values allowed), and state-of-the-art ML models will be trained to score the quality of each datapoint (row) and flag any entry (cell value) that is likely erroneous. Data Inspector returns 3 CSV files with quality assessments about your data, stating: whether an entry appears to have issues, a quality score for how likely each entry is correct, plus an alternative predicted value for each entry in the dataset.
 
 
-## Input
+## Input Dataset
 
-This method works for any tabular dataset, where each row corresponds to an example. The entries of this dataset can contain numeric, categorical, or text/arbitrary string values (missing values can also be handled by Data Inspector).
+This method works for any tabular dataset, where each row corresponds to an independent example/instance. The entries of this dataset can contain numeric, categorical, or text/arbitrary string values (missing values can also be handled by Data Inspector).
 
-Your data should be in a CSV file with a header containing column names for your data. If your data contains an index column, it should be specified using the `index_col` hyperparameter, otherwise it is assumed that there is no index column. 
+Your data should be a CSV file with a header of column names for each variable in your dataset. If your data contains an index column, it should be specified using the `index_col` hyperparameter, otherwise it is assumed that there is no index column.
 
 By default, all categorical and numeric columns will be inspected for issues, if you want to inspect specific columns, pass those columns in as a list to the `columns_to_inspect` hyperpameter. Text columns cannot be inspected will be skipped automatically.
 
-Here is a [sample input](data/input/dataset.csv) that you can run Data Inspector on.
+Here is a [sample dataset](data/input/dataset.csv) that you can run Data Inspector on.
 
-### Hyperparameters
+### Optional hyperparameters
 
-Data Inspector supports 3 hyperparameters that can be specified during training:
+Data Inspector supports 3 hyperparameters that can be optionally specified to exert greater control during training:
 
 - The `runtime` argument determines the speed and accuracy of our error finding algorithm, there are two options:
 
