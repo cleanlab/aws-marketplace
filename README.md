@@ -27,3 +27,4 @@ In short: if you are already using AWS, your data remain protected at the same l
 |   | Marketplace Listing | Description |
 |---|---------------------|-------------|
 | 1 | [Label Inspector](https://aws.amazon.com/marketplace/pp/prodview-rlbhc2lxttdio) | Find label errors in any classification dataset. |
+| 2 | [Data Inspector](TODO:link) | Find erroneous values within any tabular dataset. |
