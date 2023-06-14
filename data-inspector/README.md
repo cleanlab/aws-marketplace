@@ -47,7 +47,7 @@ Check out the [sample notebook](data_inspector.ipynb) to see how to do this prog
 
 If your dataset contains text fields (strings that are not discrete categories), we recommend a p*-instance that has GPU such that large language models can be fine-tuned on your data.
 
-If your dataset is big (over 100k rows), we recommend an instance with lots of memory: m5.24xlarge if no text, p3.16xlarge otherwise.
+If your dataset is big (over 100k rows), we recommend an instance with lots of memory: m5.24xlarge if no text fields, p3.16xlarge otherwise.
 
 
 ## Common Errors
