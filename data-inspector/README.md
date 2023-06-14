@@ -27,18 +27,20 @@ Data Inspector supports 3 hyperparameters that can be optionally specified to ex
     
 - The `index_col` argument specifies the column to use as the index of the dataset. This index column name should be passed in as a string.
 
-- The `columns_to_inspect` argument specifies the columns that should be checked for data issues. This should be a list of column names in your dataset.
+- The `columns_to_inspect` argument specifies a subset of columns that should be checked for data issues (other columns will not be audited). This should be a list of column names in your dataset.
 
 
 ## Output
 
-Data Inspector outputs 3 CSV files that contains the following results for each entry of the input data:
+After auditing your dataset, Data Inspector outputs 3 CSV files:
 
-- `is_issue.csv` contains True/False values specifying whether each entry is inferred to be an issue
-- `quality_scores.csv` contains scores between 0 and 1 estimating the likelihood that each entry is correct (lower scores indicate more noise)
-- `imputed_values.csv` contains a value for each entry predicted by our ML models
+- `is_issue.csv` contains True/False values specifying whether each entry value in the input dataset is inferred to be erroneous (True) or not (False). You can filter based on the True values to determine which subset of data appears corrupted/anomalous in your dataset.
+- `quality_scores.csv` contains scores between 0 and 1 estimating the likelihood that each entry value is correct/uncorrupted (lower scores indicate values that appear more suspicious/noisy). You can sort a column's values by these scores (in increasing order) to prioritize which values appear most suspicious.
+- `imputed_values.csv` contains a value for each entry predicted by our ML models. Computed based on all of the other information in the dataset, this prediction is the imputed value that could be used if the original value were missing.
 
-With this returned information, you can filter the examples where `is_issue = True` to see which entries contains issues. You can then sort the datapoints by their `quality_scores` to prioritize the entries with the lower scores for manual review, and even consider replacing some of those values with the predicted `imputed_values` by our ML models. Check out the [sample notebook](data_inspector.ipynb) to see how to do this programatically.
+With this returned information, you can filter the examples where `is_issue = True` to see which ones are flagged with issues (i.e. which subset of data appears corrupted/anomalous in your dataset). You can sort a column's values by their `quality_scores` to prioritize the entries with the lowest scores for manual review (or to see the least-concerning / most-typical values which have the highest `quality_scores`). Finally, consider replacing some of these corrupted values with the `imputed_values` predicted by our ML models. This can improve Analytics and Machine Learning with messy real-world datasets.
+
+Check out the [sample notebook](data_inspector.ipynb) to see how to do this programatically.
 
 
 ## Choosing the Instance Type
