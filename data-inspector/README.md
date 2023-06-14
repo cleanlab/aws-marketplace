@@ -2,6 +2,8 @@
 
 **Data Inspector** is a tool that uses AI to automatically identify entries in any tabular dataset (CSV file) that are likely incorrect. Simply provide any data table (including columns that are: text, numeric, or categorical — with missing values allowed), and state-of-the-art ML models will be trained to score the quality of each datapoint (row) and flag any entry (cell value) that is likely erroneous. Data Inspector returns 3 CSV files with quality assessments about your data, stating: whether an entry appears to have issues, a quality score for how likely each entry is correct, plus an alternative predicted value for each entry in the dataset.
 
+The Data Inspector audit is especially useful to catch errors in applications involving: data entry, measurement errors (surveys, sensors, etc), or a Quality Assurance team that spends time reviewing data. AI can inspect your data more systematically to detect issues with consistent coverage -- all in a fully automated way! 
+
 
 ## Input Dataset
 
