@@ -27,9 +27,13 @@ Data Inspector supports 3 hyperparameters that can be optionally specified to ex
 
     If unspecified, Data Inspector will run on `high_accuracy` mode by default.
     
-- The `index_col` argument specifies the column to use as the index of the dataset. This index column name should be passed in as a string.
+- The `index_col` argument specifies the column to use as the index of the dataset. This index column name should be passed in as a string. 
 
-- The `columns_to_inspect` argument specifies a subset of columns that should be checked for data issues (other columns will not be audited). This should be a list of column names in your dataset.
+    If unspecified, it is assumed that there is no index column.
+
+- The `columns_to_inspect` argument specifies a subset of columns that should be checked for data issues (other columns will not be audited). This should be a list of column names in your dataset. 
+
+    If unspecified, all valid categorical and numeric columns will be inspected for issues by default.
 
 
 ## Output
