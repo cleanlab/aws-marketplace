@@ -4,6 +4,9 @@
 
 The Data Inspector audit is especially useful to catch errors in applications involving: data entry, measurement errors (surveys, sensor noise, etc), or a Quality Assurance team that spends time reviewing data. AI can inspect your data more systematically to detect issues with consistent coverage -- all in a fully automated way! 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cleanlab/assets/master/cleanlab/data-inspector.png" width=80% height=80%>
+</p>
 
 ## Input Dataset
 
