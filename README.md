@@ -7,6 +7,10 @@ We’ve published much of the research behind our novel algorithms for detecting
 This repository contains notebooks demonstrating how to use [AWS Marketplace](https://aws.amazon.com/marketplace/seller-profile?id=87d98359-d6ba-4fca-bdd6-b45ad46110dd) solutions from Cleanlab, as well as detailed documentation for each solution. 
 Always use the latest version offered in the Marketplace -- these examples are designed for that version only. 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cleanlab/assets/master/cleanlab/data-inspector.png" width=80% height=80%>
+</p>
+
 ## Support
 
 If you get stuck on AWS setup or providing credentials/ARNs, our handy [guide](GUIDE.md) may help!
